@@ -1,0 +1,122 @@
+.hh{
+    background-image: url(../images/banner/banner2.png);
+    width: 1600px;
+    height: 809px;
+}
+.head-title{
+    font: weight 700px; 
+    font: size 65px; 
+    text-align: right ;
+    color:black;
+    padding: 350px 200px 0px 746px ;
+}
+.head-data{
+    font-weight: 400px; ;
+    font-size: 16px;
+    text-align: right ;
+    color: #000;
+    padding-right: 192px;
+    
+}
+.btn{
+    
+    font-weight:400px;
+    font-size: 20px;
+    text-align: right;
+    margin: 0px 1290px;
+    background-color :orangered;
+    color: aliceblue;
+    padding: 20px 20px 20px 20px;
+    border-radius: 5px;
+    border:0;
+}
+.women{
+    margin-left: 50px;
+
+}
+.prv{
+    display: flex;
+}
+.prev-title{
+
+    margin-top: 300px;
+    font-weight: 700px;
+    font-size: 40px;
+    margin-left: 400px;
+}
+.prev-dep{
+    margin-left: 400px;
+}
+.list{
+    margin-left: 400px;
+}
+.con{
+    content:;
+}
+.plan{
+    text-align: center;
+    font-weight: 700px;
+    font-size: 40px;
+}
+.plans{
+    text-align: center;
+    display: flex;
+}
+.item{
+    margin-left: 250px;
+    
+}
+.grd-img{
+    background-image: url(../images/watch.png);
+    color: white;
+    background-repeat: no-repeat;
+    height: 300px;
+    left: 220px;
+    border-radius: 5px;
+    margin: 50px 230px 50px 230px;
+
+}
+.gr-tl{
+    padding-top:60px ;
+    padding-left: 60px;
+    font-weight: 550px;
+    font-size: 40px;
+}
+.bb{
+    font-weight: 600px;
+    font-size: 20px;
+    text-align: right;
+    color: orangered;
+    padding:20px 25px 15px 26px;
+    border: 0;
+    margin-left: 60px;
+
+}
+.foot{
+    background-color: #000;
+    height: 577px;
+    color: antiquewhite;
+    margin-top: 50px;
+    display: flex;
+
+}
+.future{
+    font-weight: 600;
+    font-size: 30px;
+    margin-left: 100px;
+    padding-top: 20px;
+}
+.sub{
+    background-color: black;
+    font-size: 50px;
+    margin-top: 15px;
+    margin-left: 600px;
+
+}
+.bt-sub{
+    padding: 20px 20px 20px 20px;
+    
+}
+.uu{
+    padding: 20px 20px 20px 20px;
+}
